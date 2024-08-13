@@ -4,7 +4,7 @@ The use of this application ("Bot") in a server requires the collection of some 
 
 ## Access to Data
 
-Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from `@antoniozrd`.
+Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from `antonio99.dev@gmail.com`.
 
 ## Storage of Data
 
